@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SterlingIvey
 I'm currently learning Python both for fun and to enhance my daily processes.
-file:///C:/Users/sterl/Downloads/linkedin.svg
+
 
 <!---
 SterlingIvey/SterlingIvey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
