@@ -1,3 +1,6 @@
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/SterlingIvey/SterlingIvey)
+
+
 - 👋 Hi, I’m @SterlingIvey
 I'm currently learning Python both for fun and to enhance my daily work processes.
 
