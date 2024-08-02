@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SterlingIvey
-I'm currently learning Python both for fun and to enhance my daily processes.
+I'm currently learning Python both for fun and to enhance my daily work processes.
 
 
 <!---
